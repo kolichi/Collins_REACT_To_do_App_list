@@ -1,0 +1,9 @@
+- install postgresql and give users adiquate permision
+- install node js and/ or yarn 
+ 
+- cd client
+- npm install
+- cd server
+- npm install
+
+***if user does not have access to server see db file in server and run sql commands
