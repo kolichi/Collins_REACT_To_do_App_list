@@ -3,7 +3,10 @@
  
 - cd client
 - npm install
+- npm start
+
 - cd server
 - npm install
+- npm start
 
 ***if user does not have access to server see db file in server and run sql commands
